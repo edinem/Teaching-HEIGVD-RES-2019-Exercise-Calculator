@@ -23,6 +23,6 @@ Client will speak first because he want to calculate.
 He analyzes the message to be able to process it.
 
 ####What is the syntax of the messages? How we generate and parse them?
-TO BE DEFINED
+firstOperand, OPERAND, secondOperand
 ####Who closes the connection and when?
 Server if the client received the anwser or that he tried to send the answer several times without success
